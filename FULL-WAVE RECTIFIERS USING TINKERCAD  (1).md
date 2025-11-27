@@ -5,7 +5,7 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-23 at 16 47 05_0520c41b](https://github.com/user-attachments/assets/f63a57c8-5e0a-4513-88b8-8f93cc6e7c19)
+![WhatsApp Image 2025-11-27 at 14 56 16_2bd6f72a](https://github.com/user-attachments/assets/23bb7a7a-8c0a-41cd-9797-2ec625492e9d)
 
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
